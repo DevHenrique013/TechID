@@ -1,3 +1,6 @@
 Teste real aqui
+<<<<<<< HEAD
 so que não
 
+=======
+>>>>>>> 1a1a7d9b899e22809fc975c909eb506e2be6ab2f
